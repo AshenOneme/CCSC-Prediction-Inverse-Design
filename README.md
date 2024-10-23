@@ -29,4 +29,5 @@
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif0.gif"/>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif2.gif"/>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif1.gif"/>
+   <div align=center>Fig.6 Results of the inverse design of complex cross-sections</div>
 </div><br>
