@@ -6,14 +6,14 @@
 </div><br>
 
 <!-- 数据集 -->
-**MNIST-Section Dataset**
+**_MNIST-Section Dataset_**
 <div align=center>
   <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Dataset.png"/>
   <div align=center>Fig.2 The distribution of the proportion of steel area and the strength degradation rate</div>
 </div><br>
 
 <!-- 正向预测 -->
-### Prediction of the mechanical performance of CCSCs
+**_Prediction of the mechanical performance of CCSCs_**
 <div align=center>
   <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Vit.png"/>
   <div align=center>Fig.3 The prediction results of ViT</div>
@@ -30,7 +30,7 @@
 </div><br>
 
 <!-- 反向设计 -->
-### Conditional diffusion for cross-section generation
+**_Conditional diffusion for cross-section generation_**
 <div align=center>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif3.gif"/>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif0.gif"/>
