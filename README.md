@@ -2,7 +2,7 @@
 
 <div align=center>
   <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Workflow.png"/>
-  <div align=center;weight=bold>Fig.1 The proposed workflow for mechanical properties prediction and design of CCSCs</div>
+  <div align=center style="font-weight: bold;">Fig.1 The proposed workflow for mechanical properties prediction and design of CCSCs</div>
 </div><br>
 
 <!-- 数据集 -->
