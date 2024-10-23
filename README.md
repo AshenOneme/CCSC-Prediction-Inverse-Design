@@ -15,7 +15,7 @@
 </div><br>
 
 <div align=center>
-  <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Vit.png"/>
+  <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Prediction.png"/>
   <div align=center>Fig.4 Prediction for more complex arbitrary cross-sections</div>
 </div><br>
 
