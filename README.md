@@ -6,7 +6,7 @@
 </div><br>
 
 <!-- 数据集 -->
-**_MNIST-Section Dataset_**
+>**_MNIST-Section Dataset_**
 <div align=center>
   <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Dataset.png"/>
   <div align=center><strong>Fig.2 The distribution of the proportion of steel area and the strength degradation rate</strong></div>
