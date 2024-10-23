@@ -13,7 +13,7 @@
 </div><br>
 
 <!-- 正向预测 -->
-**_Prediction of the mechanical performance of CCSCs_**
+>**_Prediction of the mechanical performance of CCSCs_**
 <div align=center>
   <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Vit.png"/>
   <div align=center><strong>Fig.3 The prediction results of ViT</strong></div>
@@ -30,7 +30,7 @@
 </div><br>
 
 <!-- 反向设计 -->
-**_Conditional diffusion for cross-section generation_**
+>**_Conditional diffusion for cross-section generation_**
 <div align=center>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif3.gif"/>
   <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif0.gif"/>
