@@ -4,8 +4,8 @@
 </div><br>
 
 <div align=center>
-  <img width="250" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif4.gif"/>
-  <img width="250" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif0.gif"/>
-  <img width="250" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif2.gif"/>
-  <img width="250" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif1.gif"/>
+  <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif4.gif"/>
+  <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif0.gif"/>
+  <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif2.gif"/>
+  <img width="200" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Gif1.gif"/>
 </div><br>
