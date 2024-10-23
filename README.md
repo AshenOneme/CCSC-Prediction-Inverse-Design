@@ -1,5 +1,7 @@
 ## ⚛️Prediction of Mechanical Properties and Inverse Design of CCSCs
 
+This research introduces a method for predicting the mechanical performance and inverse design of Complex Cross-Section Columns (CCSCs) based on deep learning algorithms. A series of data-driven investigations were conducted from both forward prediction and inverse generation perspectives.
+
 <!-- 流程图 -->
 >**_Workflow_**
 <div align=center>
