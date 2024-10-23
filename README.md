@@ -5,7 +5,7 @@ This research introduces a method for predicting the mechanical performance and 
 <!-- 流程图 -->
 >**_Workflow_**
 <div align=center>
-  <img width="1000" src="https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/blob/main/Chart/Workflow.png"/>
+  <img width="1000" src="Chart/Workflow.png"/>
   <div align=center><strong>Fig.1 The proposed workflow for mechanical properties prediction and design of CCSCs</strong></div>
 </div><br>
 
