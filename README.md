@@ -1,2 +1,2 @@
-## Prediction of Mechanical Properties and Inverse Design of CCSCs
+## 🌆Prediction of Mechanical Properties and Inverse Design of CCSCs
 
