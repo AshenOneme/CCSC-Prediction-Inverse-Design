@@ -45,4 +45,8 @@ This research introduces a method for predicting the mechanical performance and 
 
 <!-- 反向设计 -->
 >**_Conditional diffusion for cross-section generation_**
+<div align=center>
+  <img width="1000" src="Chart/Conditional%20generation.png"/>
+  <div align=center><strong>Fig.6 The process of section generation</strong></div>
+</div><br>
 
