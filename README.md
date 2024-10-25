@@ -9,7 +9,7 @@
   <img width="200" src="Chart/Gif1.gif"/>
    <div align=center><strong>Results of the inverse design of complex cross-sections</strong></div>
 </div><br>
-**********************************************************************************************************
+---
 This research introduces a method for predicting the mechanical performance and inverse design of Complex Cross-Sectional Columns (CCSCs) based on deep learning algorithms. A series of data-driven investigations were conducted from both forward prediction and inverse generation perspectives.
 
 <!-- 流程图 -->
