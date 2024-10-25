@@ -10,8 +10,8 @@
    <div align=center><strong>Results of the inverse design of complex cross-sections</strong></div>
 </div><br>    
 
-[*🔗The MNIST-Section dataset*](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
-[*🔗The weights of the ViT & DDPM*](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)   
+[*✅The MNIST-Section dataset*](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
+[*✅The weights of the ViT & DDPM*](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)   
 ------------------------------------------------------------------------------------------------------------------------   
 
 This research introduces a method for predicting the mechanical performance and inverse design of Complex Cross-Sectional Columns (CCSCs) based on deep learning algorithms. A series of data-driven investigations were conducted from both forward prediction and inverse generation perspectives.
