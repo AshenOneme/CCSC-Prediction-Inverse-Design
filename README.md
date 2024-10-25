@@ -9,6 +9,7 @@
   <img width="200" src="Chart/Gif1.gif"/>
    <div align=center><strong>Results of the inverse design of complex cross-sections</strong></div>
 </div><br>    
+
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————Datasets**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
 ------------------------------------------------------------------------------------------------------------------------   
 
