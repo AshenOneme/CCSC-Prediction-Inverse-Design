@@ -10,7 +10,7 @@
    <div align=center><strong>Results of the inverse design of complex cross-sections</strong></div>
 </div><br>    
 
->**_Related link_**
+>**_Related link_**    
 [✅The MNIST-Section dataset](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
 [✅The weights of the ViT & DDPM](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)   
 ------------------------------------------------------------------------------------------------------------------------   
