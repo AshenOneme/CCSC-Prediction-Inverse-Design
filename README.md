@@ -1,7 +1,7 @@
 ## ⚛️Prediction of Mechanical Properties and Inverse Design of CCSCs
 
 <!-- 反向设计 -->
->**_Conditional diffusion for cross-section generation_**
+>##**_Conditional diffusion for cross-section generation_**
 <div align=center>
   <img width="200" src="Chart/Gif3.gif"/>
   <img width="200" src="Chart/Gif0.gif"/>
