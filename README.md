@@ -15,9 +15,11 @@
 [**✅The weights of the ViT & DDPM**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
 >
 
-<p align="center">
-  🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-</p>
+<div align=center>
+  
+## 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+  
+</div> 
 
 ___
 
