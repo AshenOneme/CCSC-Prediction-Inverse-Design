@@ -82,7 +82,7 @@ Given the mechanical performance demands for the columns, the Denoising Diffusio
 [**✅A2O Section**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)
 * Prior to conducting numerical modeling, I performed an analysis of the cyclic loading tests on columns using OpenSeesPy. This analysis confirmed that the software accurately represents the mechanical performance of the columns. The relevant code is provided below:
 <details>
-<summary> inp1文件转OpenSeesPy纤维截面代码【点击展开】 </summary>
+<summary> OpenSeesPy column【Click to expand】 </summary>
 <pre><code>
 # Edited by Ashen!
 #            _____                    _____                    _____                    _____                    _____           
@@ -152,7 +152,6 @@ ops.layer('straight', IDSteel, 3,50.24,-80,80,80,80)
 ops.layer('straight', IDSteel, 2,50.24,-80,0 ,80, 0)
 ops.layer('straight', IDSteel, 3,50.24,-80,-80,80,-80)
 
-# 节点坐标(x,y)
 ops.node(1,0,0)
 ops.node(2,0,150)
 ops.node(3,0,300)
@@ -162,7 +161,7 @@ ops.node(6,0,750)
 
 ops.fix(1,1,1,1)
 
-coordTransf = "PDelta"  # Linear, PDelta, Corotational
+coordTransf = "PDelta"
 IDColumnTransf=1
 ops.geomTransf(coordTransf, IDColumnTransf)
 numIntgrPts=8
@@ -179,7 +178,6 @@ ops.timeSeries('Linear', 11)
 ops.pattern('Plain', 100,11)
 ops.load(6,0,-140780,0)
 ops.constraints("Penalty",1e10,1e10)
-# ops.constraints("Plain")
 ops.numberer("RCM")
 ops.system("BandGeneral")
 ops.test('NormDispIncr', 1e-8, 100)
