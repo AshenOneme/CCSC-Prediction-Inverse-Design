@@ -237,22 +237,24 @@ The comparison between the experimental results and numerical simulations is as 
 * The prototype structure of the column is derived from the "Pseudo-static collapse experiments and numerical prediction competition of RC frame structure". The link is as follows:
   [**🔗Columns**](http://www.luxinzheng.net/download.htm)
 * The structure of the folder is as follows:
+```
   |--Main folder
-        |--DDPM
-              |--ConditionDiffusionModel.py
-              |--Dataset.py
-              |--Train_Diffusion.py
-        |--Diffusion_Dataset
-              |--Test
-                    |--Dataset_Test.h5
-              |--Train
-                    |--Dataset_Train.h5
-        |--ViT
-              |--Dataset.py
-              |--TrainVit.py
-              |--VisionTransformer.py
-        |--ViT_Dataset
-              |--Test
-                    |--Dataset_Test.h5
-              |--Train
-                    |--Dataset_Train.h5
+          |--DDPM
+                |--ConditionDiffusionModel.py
+                |--Dataset.py
+                |--Train_Diffusion.py
+          |--Diffusion_Dataset
+                |--Test
+                      |--Dataset_Test.h5
+                |--Train
+                      |--Dataset_Train.h5
+          |--ViT
+                |--Dataset.py
+                |--TrainVit.py
+                |--VisionTransformer.py
+          |--ViT_Dataset
+                |--Test
+                      |--Dataset_Test.h5
+                |--Train
+                      |--Dataset_Train.h5
+```
