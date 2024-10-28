@@ -28,7 +28,8 @@ This research introduces a method for predicting the mechanical performance and 
 <!-- 数据集 -->
 >**_MNIST-Section Dataset_**
 
-In this work, to evaluate the effectiveness of the prediction and generation methods, a substantial dataset of column cross-sections is required. Currently, such an extensive database is not readily available. Therefore, the MNIST-Section dataset was developed based on the MNIST dataset by mapping handwritten digits to fiber cross-sections. Subsequently, OpenSeesPy was employed to perform the computations, resulting in a fiber model dataset comprising 70,000 columns.
+In this work, to evaluate the effectiveness of the prediction and generation methods, a substantial dataset of column cross-sections is required. Currently, such an extensive database is not readily available. Therefore, the MNIST-Section dataset was developed based on the MNIST dataset by mapping handwritten digits to fiber cross-sections. Subsequently, OpenSeesPy was employed to perform the computations, resulting in a fiber model dataset comprising 70,000 columns.    
+<span style="background-color: #fce38a"><font color=#283c63 size=3.5>第</font></span>
 <div align=center>
   <img width="1000" src="Chart/Dataset.png"/>
   <div align=center><strong>Fig.2 The distribution of the proportion of steel area and the strength degradation rate</strong></div>
