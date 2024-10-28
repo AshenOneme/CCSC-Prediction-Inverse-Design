@@ -81,7 +81,32 @@ Given the mechanical performance demands for the columns, the Denoising Diffusio
 * To create arbitrary cross-sections in OpenSeesPy, you can use the Abaqus-to-OpenSeesPy conversion tool that I developed. The link to the tool is as follows:
 [**✅A2O Section**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)
 * Prior to conducting numerical modeling, I performed an analysis of the cyclic loading tests on columns using OpenSeesPy. This analysis confirmed that the software accurately represents the mechanical performance of the columns. The relevant code is provided below:
-```Python
+<details>
+<summary> inp1文件转OpenSeesPy纤维截面代码【点击展开】 </summary>
+<pre><code>
+# Edited by Ashen!
+#            _____                    _____                    _____                    _____                    _____           
+#           /\    \                  /\    \                  /\    \                  /\    \                  /\    \          
+#          /::\    \                /::\    \                /::\____\                /::\    \                /::\____\         
+#         /::::\    \              /::::\    \              /:::/    /               /::::\    \              /::::|   |         
+#        /::::::\    \            /::::::\    \            /:::/    /               /::::::\    \            /:::::|   |         
+#       /:::/\:::\    \          /:::/\:::\    \          /:::/    /               /:::/\:::\    \          /::::::|   |         
+#      /:::/__\:::\    \        /:::/__\:::\    \        /:::/____/               /:::/__\:::\    \        /:::/|::|   |         
+#     /::::\   \:::\    \       \:::\   \:::\    \      /::::\    \              /::::\   \:::\    \      /:::/ |::|   |         
+#    /::::::\   \:::\    \    ___\:::\   \:::\    \    /::::::\    \   _____    /::::::\   \:::\    \    /:::/  |::|   | _____   
+#   /:::/\:::\   \:::\    \  /\   \:::\   \:::\    \  /:::/\:::\    \ /\    \  /:::/\:::\   \:::\    \  /:::/   |::|   |/\    \  
+#  /:::/  \:::\   \:::\____\/::\   \:::\   \:::\____\/:::/  \:::\    /::\____\/:::/__\:::\   \:::\____\/:: /    |::|   /::\____\ 
+#  \::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /\:::\   \:::\   \::/    /\::/    /|::|  /:::/    / 
+#   \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    /  \:::\   \:::\   \/____/  \/____/ |::| /:::/    /  
+#            \::::::/    /    \:::\   \:::\    \               \::::::/    /    \:::\   \:::\    \              |::|/:::/    /   
+#             \::::/    /      \:::\   \:::\____\               \::::/    /      \:::\   \:::\____\             |::::::/    /    
+#             /:::/    /        \:::\  /:::/    /               /:::/    /        \:::\   \::/    /             |:::::/    /     
+#            /:::/    /          \:::\/:::/    /               /:::/    /          \:::\   \/____/              |::::/    /      
+#           /:::/    /            \::::::/    /               /:::/    /            \:::\    \                  /:::/    /       
+#          /:::/    /              \::::/    /               /:::/    /              \:::\____\                /:::/    /        
+#          \::/    /                \::/    /                \::/    /                \::/    /                \::/    /         
+#           \/____/                  \/____/                  \/____/                  \/____/                  \/____/          
+#################################################################################################################################
 import openseespy.opensees as ops
 
 ops.wipe() 
@@ -202,4 +227,7 @@ for i in range(96):
     ops.integrator("DisplacementControl",6,1,increment[i])
     ops.analysis("Static")
     ops.analyze(100)
-```
+</code></pre>
+</details>
+
+
