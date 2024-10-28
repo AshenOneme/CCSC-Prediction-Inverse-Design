@@ -78,3 +78,5 @@ Given the mechanical performance demands for the columns, the Denoising Diffusio
   <div align=center><strong>Fig.6 The process of section generation</strong></div>
 </div><br>
 
+# Notes
+
