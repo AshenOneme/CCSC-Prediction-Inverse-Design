@@ -38,7 +38,7 @@ In this work, to evaluate the effectiveness of the prediction and generation met
 </div><br>
 
 <!-- 数据集 -->
-* ## **_MNIST-Section Dataset_**
+* ## **_The MNIST-Section Dataset_**
 
 The digit portions were mapped to steel, while the remaining portions were mapped to concrete. Figure 2 illustrates the relationship between the proportion of steel in the cross-section and the strength degradation of the columns after loading, categorized into ten classes corresponding to the digits 0 through 9.
 <div align=center>
