@@ -240,7 +240,7 @@ The comparison between the experimental results and numerical simulations is as 
 [**🔗The MNIST-Section dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset) | 
 [**🔗The weights of the ViT & DDPM**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
 
-*The structure of the folder is as follows:
+* The structure of the folder is as follows:
 ```
   |--Main folder
           |--DDPM
