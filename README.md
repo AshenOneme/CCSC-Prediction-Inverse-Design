@@ -15,8 +15,8 @@
 </div><br>    
 
 * ## ⚛️ **_Datasets & Pre-trained models_**    
-[**✅The MNIST-Section dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
-[**✅The weights of the ViT & DDPM**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
+[**🔗The MNIST-Section dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
+[**🔗The weights of the ViT & DDPM**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
 
 <div align=center>
   
@@ -79,7 +79,7 @@ Given the mechanical performance demands for the columns, the Denoising Diffusio
 
 # Notes
 * To create arbitrary cross-sections in OpenSeesPy, you can use the Abaqus-to-OpenSeesPy conversion tool that I developed. The link to the tool is as follows:
-[**✅A2O Section**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)
+[**🔗A2O Section**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)
 * Prior to conducting numerical modeling, I performed an analysis of the cyclic loading tests on columns using OpenSeesPy. This analysis confirmed that the software accurately represents the mechanical performance of the columns. The relevant code is provided below:
 <details>
 <summary> OpenSeesPy column【Click to expand】 </summary>
@@ -228,4 +228,11 @@ for i in range(96):
 </code></pre>
 </details>
 
+The comparison between the experimental results and numerical simulations is as follows:
+<div align=center>
+  <img width="300" src="Chart/OpenSeesPy.png"/>
+  <div align=center><strong>Fig.7 Numerical simulation Result</strong></div>
+</div><br>
 
+* The prototype structure of the column is derived from the "Pseudo-static collapse experiments and numerical prediction competition of RC frame structure". The link is as follows:
+  [**🔗Columns**](http://www.luxinzheng.net/download.htm)
