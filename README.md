@@ -236,7 +236,11 @@ The comparison between the experimental results and numerical simulations is as 
 
 * The prototype structure of the column is derived from the "Pseudo-static collapse experiments and numerical prediction competition of RC frame structure". The link is as follows:
   [**🔗Columns**](http://www.luxinzheng.net/download.htm)
-* The structure of the folder is as follows:
+* The datasets and pre-trained weights are as follows:
+[**🔗The MNIST-Section dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset) | 
+[**🔗The weights of the ViT & DDPM**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
+
+*The structure of the folder is as follows:
 ```
   |--Main folder
           |--DDPM
