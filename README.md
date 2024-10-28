@@ -60,6 +60,8 @@ Although the dataset we utilized, MNIST-Section, lacks realism, the predictive m
 
 <!-- 反向设计 -->
 >**_DDPM for cross-section generation_**
+
+Given the mechanical performance demands for the columns, the Denoising Diffusion Probabilistic Model (DDPM) can rapidly generate corresponding cross-sectional forms. Each generated cross-section undergoes mechanical performance evaluation using OpenSeesPy, which is then compared against the specified performance criteria. It is observed that as the number of sampling steps increases, the resulting cross-sections become more regular, and the finite element analysis results progressively converge towards the target mechanical performance.
 <div align=center>
   <img width="1000" src="Chart/Conditional%20generation.png"/>
   <div align=center><strong>Fig.6 The process of section generation</strong></div>
