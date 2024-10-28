@@ -79,4 +79,5 @@ Given the mechanical performance demands for the columns, the Denoising Diffusio
 </div><br>
 
 # Notes
-
+To create arbitrary cross-sections in OpenSeesPy, you can use the Abaqus-to-OpenSeesPy conversion tool that I developed. The link to the tool is as follows:
+[**✅The MNIST-Section dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)   
