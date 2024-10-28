@@ -45,6 +45,8 @@ The predictive model we developed, which maps column cross-sectional properties 
   <div align=center><strong>Fig.3 The prediction results of ViT</strong></div>
 </div><br>
 
+>**_Transfer to more regular or more complex cross-sections_**
+
 Although the dataset we utilized, MNIST-Section, lacks realism, the predictive model trained on this dataset is capable of accurately predicting the mechanical performance of both **_regular_** and **_more complex_**, non-standard cross-sections. The results, as shown in Figure 4, demonstrate the model's effectiveness even when applied to cross-sections that deviate from typical engineering scenarios.
 <div align=center>
   <img width="1000" src="Chart/Prediction.png"/>
